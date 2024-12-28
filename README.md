@@ -1,4 +1,4 @@
-# Blog
-My custom made blog for writing about things that interest me.
+# ChuyentinORZ
+This is ChuyentinORZ blogs, written by members of ChuyenTinORZ.
 
 ![Languages](https://skillicons.dev/icons?i=astro,nodejs,ts,js,md)
