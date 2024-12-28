@@ -1,0 +1,17 @@
+---
+interface Props {
+    date: Date;
+}
+
+const { date } = Astro.props;
+---
+
+<time datetime={date.toISOString()}>
+    {
+        date.toLocaleString("en-au", {
+            dateStyle: "long",
+            timeStyle: "short",
+            timeZone: "Asia/Ho_Chi_Minh",
+        })
+    }
+</time>
