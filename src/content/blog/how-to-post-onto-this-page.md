@@ -19,7 +19,7 @@ heroImage: "(banner of the post, delete this line if you want to make it random)
 ---
 (your post content below here)
 ```
-Our post system uses a formatted time method, called Unix timestamp in seconds. You can use online tools to encode the date to Unix timestamp in seconds format such as [EpochConverter](https://epochconverter.com/) to encode it and put inside the file.
+Our post system uses a formatted time method, called Unix timestamp in **miniseconds**. You can use online tools to encode the date to Unix timestamp in miniseconds format such as [EpochConverter](https://epochconverter.com/) to encode it and put inside the file.
 <p align="center">
     <img src="https://i.imgur.com/mpMGO1w.png"></img>
     <i>EpochConverter homepage</i>
@@ -40,6 +40,11 @@ To put image in this post, you can upload it onto imgur and stick it in the post
 
 You can check out [this link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to know how to write a markdown file.
 Once you're ready, move to step 2 to post your blog post onto the page.
+
+
+
+## 2. Make a PR to publish the post
+Start up your browser, connect to [akk1to/orz-blog](https://github.com/akk1to/orz-blog) and make a fork of the repository. Please remember that **we don't allow any PR to push into the `main` branch, except push to /src/blog (folder that contain posts)**. Only owner of the repository (akk1to.dev) and maintainers have the rights to maintain the `main` branch.
 
 Navigate to the [`domains/`](https://wdh.gg/borLkD3) folder and then from there click the `Add file` button and selecting the `Create new file option`.
 
