@@ -5,7 +5,7 @@ published: "1735273160000"
 author: "akk1to.dev"
 heroImage: "https://images.alphacoders.com/135/1357322.jpeg"
 ---
-*This post will show you how to publish a new post on this blog, hosted by ChuyenTin Organisation. Note that you need to make a new PR on the exact post folder to publish a new post onto this page.*
+*This post will show you how to publish a new post on this blog, hosted by Chuyen Tin orz. Note that you need to make a new PR on the exact post folder to publish a new post onto this page.*
 *This page was made and maintained by akk1to.dev (idea from [Willam Harrison's blog](https://blog.wharrison.com.au/))*
 
 ## 1. Generate ideas & write a new post
