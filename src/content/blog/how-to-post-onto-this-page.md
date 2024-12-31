@@ -119,5 +119,3 @@ Congratulations you have successfully post a new blog on our page!
 </p>
 
 You can see this example post on https://orz-blog.vercel.app/test
-
-_Make sure to join our [Discord server](https://wdh.gg/WxDO6wi) for announcements regarding the service._
